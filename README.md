@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there, I'm roottool!👋
+</h1>
+
+<a href="https://twitter.com/roottool">
+  <p align="center">
+    Twitter
+  </p>
+</a>
+
+## My data
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-1.roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats-1.roottool.vercel.app/api/top-langs/?username=roottool&theme=tokyonight" />
+</a>
 
 <!--
 **roottool/roottool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
