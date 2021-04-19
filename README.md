@@ -13,7 +13,7 @@
 <div>
   <span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats-liart-two.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" stlye="{ width: 49.5%; }" />
+      <img align="left" src="https://github-readme-stats-liart-two.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
     </a>
   </span>
   <span>
