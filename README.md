@@ -11,10 +11,10 @@
 ## My data
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-1.roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats-liart-two.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats-1.roottool.vercel.app/api/top-langs/?username=roottool&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats-liart-two.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
 </a>
 
 <!--
