@@ -13,15 +13,15 @@
 <div>
   <span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="50%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
+      <img align="left" width="50%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
     </a>
   </span>
   <span>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img width="42%" src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
+      <img align="right" width="42%" src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
     </a>
   </span>
- </div>
+</div>
 
 <!--
 **roottool/roottool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
