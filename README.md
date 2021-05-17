@@ -13,12 +13,12 @@
 <div>
   <span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" width="50%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
     </a>
   </span>
   <span>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="right" width="42%" src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
     </a>
   </span>
 </div>
