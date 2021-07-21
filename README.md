@@ -1,12 +1,14 @@
 <h1 align="center">
-  Hi there, I'm roottool!👋
+  🤖 Hi there, I'm roottool! 👋
 </h1>
 
-<a href="https://twitter.com/roottool">
-  <p align="center">
-    Twitter
-  </p>
-</a>
+## Social links
+
+<div align="center">
+  <a href="https://twitter.com/roottool">
+      <img width="5%" src="https://user-images.githubusercontent.com/11808736/126438225-4fb016fd-1147-4338-8785-95dc07c1d4c7.png" />
+  </a>
+</div>
 
 ## My data
 
