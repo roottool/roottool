@@ -12,7 +12,7 @@
 
 ## My data
 
-<div>
+<div align="center">
   <span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="50%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
