@@ -1,8 +1,8 @@
 <h1 align="center">
-  🤖 Hi there, I'm roottool! 👋
+  🤖 Hi there👋, I'm roottool!
 </h1>
 
-## Social links
+## 📳 Social links
 
 <div align="center">
   <a href="https://twitter.com/roottool">
@@ -10,17 +10,17 @@
   </a>
 </div>
 
-## My data
+## 📖 My data
 
 <div align="center">
   <span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="50%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
+      <img width="49%" src="https://github-readme-stats-roottool.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
     </a>
   </span>
   <span>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img width="42%" src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
+      <img width="41%" src="https://github-readme-stats-roottool.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
     </a>
   </span>
 </div>
