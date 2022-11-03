@@ -1,6 +1,10 @@
-<h1 align="center">
-  🤖 Hi there👋, I'm roottool!
-</h1>
+<div align="center">
+  <samp>
+
+# 🤖 Hi there👋, I'm roottool!
+
+  </samp>
+</div>
 
 ## 📳 Social links
 
