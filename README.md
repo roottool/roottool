@@ -6,7 +6,11 @@
   </samp>
 </div>
 
+<samp>
+  
 ## 📳 Social links
+  
+</samp>
 
 <div align="center">
   <a href="https://twitter.com/roottool">
@@ -14,7 +18,11 @@
   </a>
 </div>
 
+<samp>
+  
 ## 📖 My data
+  
+</samp>
 
 <div align="center">
   <span>
