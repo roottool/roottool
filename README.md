@@ -13,7 +13,7 @@
 </samp>
 
 <div align="center">
-  <a href="https://twitter.com/roottool">
+  <a href="https://x.com/roottool">
       <img width="5%" src="https://user-images.githubusercontent.com/11808736/126438225-4fb016fd-1147-4338-8785-95dc07c1d4c7.png" />
   </a>
 </div>
@@ -26,14 +26,10 @@
 
 <div align="center">
   <span>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="49%" src="https://github-readme-stats-roottools-projects.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
-    </a>
+    <img width="49%" alt="Stats Card" src="https://github-stats-extended-beta-two.vercel.app/api?username=roottool&show_icons=true&theme=tokyonight" />
   </span>
   <span>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img width="41%" src="https://github-readme-stats-roottools-projects.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
-    </a>
+    <img width="38%" alt="Top Languages Card" src="https://github-stats-extended-beta-two.vercel.app/api/top-langs/?username=roottool&layout=compact&theme=tokyonight" />
   </span>
 </div>
 
